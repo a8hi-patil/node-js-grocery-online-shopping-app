@@ -1,1 +1,3 @@
 ./monilithic-backend/node_modules
+./monilithic-backend/.env
+./monilithic-backend/.env*
